@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//coco99166.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "//coco99166.github.io/static/js/main.3358ed52.chunk.js",
+    "main.js.map": "//coco99166.github.io/static/js/main.3358ed52.chunk.js.map",
+    "runtime-main.js": "//coco99166.github.io/static/js/runtime-main.1b50765c.js",
+    "runtime-main.js.map": "//coco99166.github.io/static/js/runtime-main.1b50765c.js.map",
+    "static/js/2.eabf0129.chunk.js": "//coco99166.github.io/static/js/2.eabf0129.chunk.js",
+    "static/js/2.eabf0129.chunk.js.map": "//coco99166.github.io/static/js/2.eabf0129.chunk.js.map",
+    "index.html": "//coco99166.github.io/index.html",
+    "precache-manifest.5593b53a618bc38349999127e4979bbe.js": "//coco99166.github.io/precache-manifest.5593b53a618bc38349999127e4979bbe.js",
+    "service-worker.js": "//coco99166.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "//coco99166.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eabf0129.chunk.js.LICENSE.txt": "//coco99166.github.io/static/js/2.eabf0129.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//coco99166.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b50765c.js",
+    "static/js/2.eabf0129.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3358ed52.chunk.js"
+  ]
+}
